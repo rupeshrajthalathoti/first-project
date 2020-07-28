@@ -37,6 +37,16 @@ for l in range(1,9):
     summations = summations + l
 print(summations)
 
+for u in range(1,10,5):
+    print(u)
+# this are new things happen to me
+# we all are the same
+"""
+   the paath of the final selenium 
+   projects tools can apply
+   need more data
+"""
+
 
 
 
