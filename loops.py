@@ -32,7 +32,10 @@ for k in range(1, 10, 5):
 for m in range(10):
     print(m)
 
-
+summations = 0
+for l in range(1,9):
+    summations = summations + l
+print(summations)
 
 
 
